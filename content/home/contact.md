@@ -22,22 +22,22 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: tim.vantilborgh@vub.be
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Pleinlaan 2
+    city: Elsene
+    region: Brussels
+    postcode: '1050'
+    country: Belgium
+    country_code: BE
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '50.492071'
+    longitude: '4.234463'
+  directions: Enter Building C and take the stairs to Office 3C249b on Floor 3
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
