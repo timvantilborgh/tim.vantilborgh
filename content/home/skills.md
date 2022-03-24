@@ -2,7 +2,7 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -17,18 +17,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 80%
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 70%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 5%
+  icon: python
+  icon_pack: fab
+  name: Python
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
