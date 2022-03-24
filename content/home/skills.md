@@ -29,6 +29,10 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description: 70%
+  icon: head-side-brain
+  icon_pack: fas
+  name: IO-Psychology
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
